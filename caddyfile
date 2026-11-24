@@ -1,3 +1,0 @@
-bot.aurovpn.net {
-    reverse_proxy bot:8080
-}
